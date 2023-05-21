@@ -1,7 +1,8 @@
 # django_project
 This is a Django project that is allow user to register yourself and login then enter the home page where user can read the the technology related blogs. as well as videos.
 
-**Features****:**
+**Features**
+
 Registration
 
 Login
