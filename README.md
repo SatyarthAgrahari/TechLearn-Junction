@@ -1,13 +1,12 @@
 # django_project
-This is a Django project that is allow user to register yourself and login then enter the home page where user can read the the technology related blogs. as well as videos.
+
+This is a Django project that allows users to register and login. Once logged in, users can view a home page with technology-related blogs and videos.
 
 **Features**
 
-Registration
+User registration and login
 
-Login
-
-Blogs
+View a home page with technology-related blogs and videos
 
 **Installation**
 To install this project, you will need to have Python and Django installed on your computer.
