@@ -3,7 +3,9 @@ This is a Django project that is allow user to register yourself and login then 
 
 **Features****:**
 Registration
+
 Login
+
 Blogs
 
 **Installation**
