@@ -1,4 +1,4 @@
-# django_project
+# TechLearn Junction
 
 This is a Django project that allows users to register and login. Once logged in, users can view a home page with technology-related blogs and videos.
 
